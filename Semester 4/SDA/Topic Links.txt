@@ -1,0 +1,11 @@
+usecase diagram :
+https://youtu.be/6oz8MKShCVE?si=RvAr6AmyRArNbWZI
+
+usecase description :
+https://youtu.be/i3dg99MWLZU?si=k37FHZ_cPRCcuDQ2
+
+Object Oriented CK Metrics:
+https://claude.ai/share/f7b21b24-4405-4d3a-84f5-626de2e8ab3c
+
+SOLID Principles:
+https://claude.ai/share/87c08701-101f-494d-b6da-34b017ef0937
