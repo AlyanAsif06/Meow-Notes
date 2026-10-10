@@ -15,7 +15,7 @@ Semester Number → Subject → Lecture Number
 ## ✍️ Author
 
 **Alyan Asif**  
-BS Computer Science, 4th Semester (E) <br>
+BS Computer Science, 5th Semester (E) <br>
 FAST NUCES, Lahore
 
 ---
